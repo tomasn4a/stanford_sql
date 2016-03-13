@@ -1,5 +1,5 @@
 -- Solutions to the SQL Movie-Rating Query Exercises Extras. The schema and database 
---used for this problems can be found in the rating.sql file
+-- used for this problems can be found in the rating.sql file
 
 
 -- Q1
